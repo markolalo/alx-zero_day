@@ -1,1 +1,1 @@
-My first readme
+This repo is a familiarization tool for Github and git basics
